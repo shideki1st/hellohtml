@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+            Hello Rizky!
+        </title>
+
+    </head>
+    <body>
+        <p>Hay ini adalah website pertama ku!</p>
+
+        List Buah
+        <ol>
+            <li>Mangga</li>
+            <li>Durian</li>
+            <li>Apel</li>
+            <li>Melon</li>
+        </ol>
+
+        <ul>
+            <li>Mangga</li>
+            <li>Durian</li>
+            <li>Apel</li>
+            <li>Melon</li>
+        </ul>
+    </body>
+</html>
